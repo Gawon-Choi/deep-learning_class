@@ -1,4 +1,4 @@
 # deep-learning_class
-grade 3 deep-learning_class(2021) repository
+3학년 1학기 심층학습(2021)
 
 *upload (branch) list: 4th, 5th, 10th
